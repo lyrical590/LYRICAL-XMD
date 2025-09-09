@@ -1,4 +1,6 @@
 # LYRICAL-XMD
+=Hello+Everyone%F0%9F%91%8B!;Here+are+LYRICAL-MD+Plugins;They+are+Prepared+by+Lyrical)
+
 ✧〖Best Whatsapp Bot 𝕍5 𝔸𝕟𝕥𝕚𝕓𝕒𝕟 Heroku &amp; WhatsApp Account 2025 𝐍𝐄𝐖 𝕎𝕙𝕒𝕥𝕤𝔸𝕡𝕡 𝔹𝕠𝕥〗✧
 PAIRING CODE**
     <br>
