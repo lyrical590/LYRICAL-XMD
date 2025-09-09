@@ -8,15 +8,11 @@ PAIRING CODE**
 <p align="left">
 8 months ago
 
-Update README.md
-<a href='https://arslan-md-pair.onrender.com/' target="_blank"><img alt='Server1' src='https://img.shields.io/badge/-Server 1-darkgreen?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
-8 months ago
-
-Update README.md
+ahttapdate README.md
 
 <br>
 
 <p align="left">
-<a href='https://arslan-md-beta-pair.onrender.com' target="_blank"><img alt='Server2' src='https://img.shields.io/badge/-Server 2-darkred?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
+<a href='https://pkxmd-pairing-site-pz9c.onrender.com/' target="_blank"><img alt='Server2' src='https://img.shields.io/badge/-Server 2-darkred?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
 
     
