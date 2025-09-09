@@ -17,6 +17,6 @@ ahttapdate README.md
 <br>
 
 <p align="left">
-<a href='https://pkxmd-pairing-site-pz9c.onrender.com/' target="_blank"><img alt='Server1' src='https://img.shields.io/badge/-Server 2-darkred?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
+<a href='https://session-generator-t8u9.onrender.com' target="_blank"><img alt='Server1' src='https://img.shields.io/badge/-Server 2-darkred?style=for-the-badge&logo=Whatsapp&logoColor=white'/< width=120 height=39/p></a>
 
     
